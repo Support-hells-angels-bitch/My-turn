@@ -1,0 +1,6 @@
+
+{"bug_type":"226","timestamp":"2024-08-16 16:50:47.00 -0500","os_version":"iPhone OS 18.0 (22A5338b)","roots_installed":0,"incident_id":"DD13C94A-7EA3-4F3A-9428-8C2955CA208B"}
+{"
+postTime":1723845046980.0349,"events":[{"eventTime":1723775667804.8069,"product":"iPhone OS","build":"22A5338b","eventLinkID":"E39B24F1-9FC4-44DF-94EB-50243DE60003","eventType":"SOSStatus","eventClass":1,"errorDomain":"com.apple.security.sos.error","topic":"xp_coreos_securebackup","modelid":"iPhone14,3","errorCode":1050},{"eventTime":1723845042435.7729,"product":"iPhone OS","build":"22A5338b","eventLinkID":"E39B24F1-9FC4-44DF-94EB-50243DE60003","eventType":"SOSStatus
+
+","eventClass":1,"errorDomain":"com.apple.security.sos.error","topic":"xp_coreos_securebackup","modelid":"iPhone14,3","errorCode":1050}]}
